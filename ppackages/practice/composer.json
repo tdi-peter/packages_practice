@@ -1,0 +1,15 @@
+{
+    "name": "ppackages/practice",
+    "authors": [
+        {
+            "name": "peter",
+            "email": "peter@gogotdi.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Virtualorz\\Hello\\": "src/"
+        }
+    }
+}
